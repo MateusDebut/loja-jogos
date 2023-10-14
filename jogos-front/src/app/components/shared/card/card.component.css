@@ -1,0 +1,9 @@
+.favoritar{
+    font-size: 19px;
+    color: rgb(159, 159, 159);
+    cursor: pointer;
+}
+
+.estaFavoritado{
+    color: red;
+}
